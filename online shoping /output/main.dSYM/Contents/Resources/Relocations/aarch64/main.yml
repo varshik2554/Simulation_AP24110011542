@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vennelachowdaryannamareddy/online shoping /output/main'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _displayProducts, symObjAddr: 0x0, symBinAddr: 0x100003310, symSize: 0xBC }
+  - { offset: 0x3F, size: 0x8, addend: 0x0, symName: _cartCount, symObjAddr: 0x1E3C, symBinAddr: 0x10000816C, symSize: 0x0 }
+  - { offset: 0x5B, size: 0x8, addend: 0x0, symName: _products, symObjAddr: 0x958, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0xCA, size: 0x8, addend: 0x0, symName: _productCount, symObjAddr: 0xAC0, symBinAddr: 0x100008168, symSize: 0x0 }
+  - { offset: 0xDF, size: 0x8, addend: 0x0, symName: _cart, symBinAddr: 0x100008170, symSize: 0x0 }
+  - { offset: 0x115, size: 0x8, addend: 0x0, symName: _displayProducts, symObjAddr: 0x0, symBinAddr: 0x100003310, symSize: 0xBC }
+  - { offset: 0x147, size: 0x8, addend: 0x0, symName: _addToCart, symObjAddr: 0xBC, symBinAddr: 0x1000033CC, symSize: 0x200 }
+  - { offset: 0x1BF, size: 0x8, addend: 0x0, symName: _removeFromCart, symObjAddr: 0x2BC, symBinAddr: 0x1000035CC, symSize: 0x18C }
+  - { offset: 0x229, size: 0x8, addend: 0x0, symName: _viewCart, symObjAddr: 0x448, symBinAddr: 0x100003758, symSize: 0x174 }
+  - { offset: 0x289, size: 0x8, addend: 0x0, symName: _searchProduct, symObjAddr: 0x5BC, symBinAddr: 0x1000038CC, symSize: 0x17C }
+  - { offset: 0x2D7, size: 0x8, addend: 0x0, symName: _checkout, symObjAddr: 0x738, symBinAddr: 0x100003A48, symSize: 0xEC }
+  - { offset: 0x317, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x824, symBinAddr: 0x100003B34, symSize: 0x110 }
+...
